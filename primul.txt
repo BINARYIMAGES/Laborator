@@ -1,1 +1,3 @@
-aaaaaaaaaa
+git clone https://github.com/BINARYIMAGES/Laborator
+git commit
+git push
